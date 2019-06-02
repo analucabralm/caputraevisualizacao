@@ -1,5 +1,5 @@
 #Importando o scrapy
-#Usando o recurso de abrir no browser para pegar as classes dos elementos
+
 import scrapy
 from scrapy.utils.response import open_in_browser
 
